@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\bin\Debug\net8.0\ESTUDIANTES.exe
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\bin\Debug\net8.0\ESTUDIANTES.deps.json
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\bin\Debug\net8.0\ESTUDIANTES.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\bin\Debug\net8.0\ESTUDIANTES.dll
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\bin\Debug\net8.0\ESTUDIANTES.pdb
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.dll
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\refint\ESTUDIANTES.dll
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.pdb
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ESTUDIANTES.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\ESTUDIANTES\ESTUDIANTES\obj\Debug\net8.0\ref\ESTUDIANTES.dll

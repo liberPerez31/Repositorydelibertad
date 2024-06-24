@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\bin\Debug\net8.0\ADIVINANZA.exe
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\bin\Debug\net8.0\ADIVINANZA.deps.json
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\bin\Debug\net8.0\ADIVINANZA.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\bin\Debug\net8.0\ADIVINANZA.dll
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\bin\Debug\net8.0\ADIVINANZA.pdb
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.dll
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\refint\ADIVINANZA.dll
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.pdb
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ADIVINANZA.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\ADIVINANZA\ADIVINANZA\obj\Debug\net8.0\ref\ADIVINANZA.dll

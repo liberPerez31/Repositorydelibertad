@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\bin\Debug\net8.0\MINIMAXI.exe
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\bin\Debug\net8.0\MINIMAXI.deps.json
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\bin\Debug\net8.0\MINIMAXI.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\bin\Debug\net8.0\MINIMAXI.dll
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\bin\Debug\net8.0\MINIMAXI.pdb
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.dll
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\refint\MINIMAXI.dll
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.pdb
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\MINIMAXI.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\MINIMAXI\MINIMAXI\obj\Debug\net8.0\ref\MINIMAXI.dll
